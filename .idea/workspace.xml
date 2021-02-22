@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3371655d-8842-4485-8a46-84b5ce45cc8e" name="Default Changelist" comment="My Groovy Sample Programming">
+      <changelist_data name="moses" email="academicsnotes@gmail.com" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1okVWUnQk3mgBfXjiWOOXIHZrek" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/MainCalculator.groovy" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RunManager" selected="Groovy.MainCalculator.groovy">
+    <configuration name="MainCalculator.groovy" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="HelloWorld" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/MainCalculator.groovy" />
+      <setting name="vmparams" value="--add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="helloWorld.groovy" type="GroovyScriptRunConfiguration" factoryName="Groovy">
+      <module name="HelloWorld" />
+      <setting name="path" value="file://$PROJECT_DIR$/src/helloWorld.groovy" />
+      <setting name="vmparams" value="--add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="file://$PROJECT_DIR$" />
+      <setting name="debug" value="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Groovy.MainCalculator.groovy" />
+      <item itemvalue="Groovy.helloWorld.groovy" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3371655d-8842-4485-8a46-84b5ce45cc8e" name="Default Changelist" comment="" />
+      <created>1613830606550</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613830606550</updated>
+    </task>
+    <task id="LOCAL-00001" summary="My Groovy Sample Programming">
+      <created>1614000663683</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614000663684</updated>
+    </task>
+    <task id="LOCAL-00002" summary="My Groovy Sample Programming">
+      <created>1614001033067</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614001033067</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="My Groovy Sample Programming" />
+    <option name="LAST_COMMIT_MESSAGE" value="My Groovy Sample Programming" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="163" y="0" key="#Project_Structure" timestamp="1613831459465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="#Project_Structure/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613831459465" />
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613999505070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613999505070" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1613999469621">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613999469621" />
+    <state x="507" y="284" key="Github.CreateGistDialog" timestamp="1614001108543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="507" y="284" key="Github.CreateGistDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001108543" />
+    <state width="661" height="223" key="GridCell.Tab.0.bottom" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state width="661" height="223" key="GridCell.Tab.0.center" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state width="661" height="223" key="GridCell.Tab.0.left" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state width="661" height="223" key="GridCell.Tab.0.right" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state width="661" height="223" key="GridCell.Tab.1.bottom" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state width="661" height="223" key="GridCell.Tab.1.center" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state width="661" height="223" key="GridCell.Tab.1.left" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state width="661" height="223" key="GridCell.Tab.1.right" timestamp="1614001275549">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="661" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001275549" />
+    <state x="184" y="9" key="SettingsEditor" timestamp="1613830799821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="9" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1613830799821" />
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2" timestamp="1614001058391">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="84" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1614001058391" />
+  </component>
+</project>
