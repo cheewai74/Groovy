@@ -1,0 +1,25 @@
+Methods	    Description
+
+add()	    Allows you to append the new value to the end of this List.
+
+contains()	Returns true if this List contains a certain value.
+
+get()	    Returns the element at the definite position.
+
+isEmpty()	Returns true value if List contains no elements.
+
+minus()	    This command allows you to create a new List composed of the elements of the 
+            original excluding those which are specified in the collection.
+
+plus()	    Allows you to create a new List composed of the elements of the original 
+            together along with mentioned in the collection.
+
+pop()	    Removes the last item from the List.
+
+remove()	Removes the element at the specific position.
+
+reverse()	Create a new List which reverses the elements of the original List.
+
+size()	    Returns the number of elements in this List.
+
+sort()	    Returns a sorted copy.

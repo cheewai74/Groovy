@@ -1,0 +1,16 @@
+Methods	        Description
+
+containsKey()	Check that map contains this key or not?
+
+get()	        This command looks up the key in this Map and returns the corresponding value. 
+                If you don’t find any entry in this Map, then it will return null.
+
+keySet()	    Allows to find a set of the keys in this Map.
+
+put()	        Associates the specified value with the given key in this Map. 
+                If the Map earlier contained a mapping for this key. 
+                Then the old value will be replaced by the specified value.
+                
+size()	        Returns the number of key-value mappings.
+
+values()	    This command returns a collection view of the values.
